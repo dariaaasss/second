@@ -1,0 +1,3 @@
+C:/Users/Пользователь/source/repos/second/build/CMakeFiles/second.dir
+C:/Users/Пользователь/source/repos/second/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Пользователь/source/repos/second/build/CMakeFiles/ZERO_CHECK.dir
